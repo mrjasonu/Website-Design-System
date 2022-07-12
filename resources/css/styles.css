@@ -4,7 +4,6 @@ html {
 
 main {
     display: block;
-    /* border: 1px solid black; */
     width: 1200px;
     margin: 5px auto;
     padding: 15px;
@@ -35,16 +34,10 @@ h2 {
     height: 300px;
 }
 
-/* #colors-div h2 {
-    margin-bottom: 20px;
-    margin-top: 20px;
-} */
-
 .color {
     display: inline-block;
     width: 370px;
     height: 93px;
-    /* border: 1px solid black; */
     margin-right: 5px;
     margin-bottom: 25px;
     margin-top: 10px;
@@ -87,7 +80,6 @@ h2 {
 
 .font {
     width: 500px;
-    /* border: 1px solid black; */
     display: inline-block;
     margin-bottom: 20px;
 }
